@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3886" started-at="2021-06-27T19:40:13Z" finished-at="2021-06-27T19:40:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3886" started-at="2021-06-27T19:40:13Z" finished-at="2021-06-27T19:40:17Z">
+      <class name="testCases.PUT_Or_Update_A_Product">
+        <test-method status="PASS" signature="update_A_Product()[pri:0, instance:testCases.PUT_Or_Update_A_Product@d4342c2]" name="update_A_Product" duration-ms="3837" started-at="2021-06-27T19:40:14Z" finished-at="2021-06-27T19:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_A_Product -->
+      </class> <!-- testCases.PUT_Or_Update_A_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
